@@ -63,9 +63,9 @@ python hotel_bill.py
 Contributions to this project are welcome! If you find any issues or want to add new features, please feel free to open an issue or submit a pull request.
 
 1. Fork the repository.
-2. Create your feature branch: `git checkout -b feature/new-feature
+2. Create your feature branch: `git checkout -b feature/new-feature`
 3. Commit your changes: `git commit -m 'Add some new feature'`
-4. Push to the branch: `git push origin feature/new-feature
+4. Push to the branch: `git push origin feature/new-feature`
 5. Open a pull request.
 
 ## License
